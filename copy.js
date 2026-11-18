@@ -14,9 +14,9 @@ const CONFIG = {
   clip2HoldAfterTyping: 2500,
 
   // ---- Clip 3 ----
-  clip3Name: "Anushka Vishwakarma",
-  clip3Day: 16,              // <-- birthday day (number only)
-  clip3Month: "October",     // <-- birthday month name
+  clip3Name: "Anushka yadav(lolhi)",
+  clip3Day: 19,              // <-- birthday day (number only)
+  clip3Month: "November",     // <-- birthday month name
   clip3EnvelopeOpenDelay: 1200,
   clip3LetterRevealDelay: 900,
 
